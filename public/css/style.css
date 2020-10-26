@@ -1,0 +1,84 @@
+.row-header {
+    margin: 0px auto;
+    padding: 0px 0px; }
+  
+  .row-content {
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 1px ridge;
+    min-height: 400px; }
+  
+  .footer {
+    background-color: #612af9;
+    margin: 0px auto;
+    padding: 20px 0px; }
+  
+  .jumbotron {
+    margin: 0px auto;
+    height: 500px;
+    padding: 70px 30px;
+    background: #1d04583f !important;
+    color: floralwhite; 
+  }
+  .jumbotron2 {
+    margin: 0px auto;
+    height: 500px;
+    padding: 70px 30px;
+    background: #ffffff !important;
+    color: floralwhite; 
+  }
+  .abouth1, .aboutp{
+    color: black;
+  }
+  
+  address {
+    font-size: 80%;
+    margin: 0px;
+    color: #0f0f0f; }
+  
+  body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0; 
+    background-image: url("../assets/homepagepic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+  
+  .navbar-dark {
+    background-color: #3107a0; }
+  
+  #projects{
+    background-color: white;
+    height: 90vh;
+  }
+  h2{
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  #close {
+    color: #ddd; }
+  
+  .modal-header {
+    background-color: #502ca5; }
+  
+  .modal-title {
+    color: #ddd; }
+  
+  .modal-body {
+    background-color: #ddd;
+   }
+  .serviceimg{
+    height: 25em;
+    margin-bottom: 40px;
+    margin-left: 20px;
+  }
+  .service-items{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    color: rgb(85, 2, 2);
+  }
+  #contactbody{
+    background: white;
+  }

@@ -1,0 +1,33 @@
+{
+  "name": "exprees",
+  "version": "1.0.0",
+  "description": "express useing",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "student",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.2",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "mongoose": "^5.10.9",
+    "node-sass": "^4.14.1",
+    "nodemon": "^2.0.4",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RISHUVO/RISHUVO-Comp-229-Assignment-1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RISHUVO/RISHUVO-Comp-229-Assignment-1/issues"
+  },
+  "homepage": "https://github.com/RISHUVO/RISHUVO-Comp-229-Assignment-1#readme"
+}
